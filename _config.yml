@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-PCWF42GDL5 # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -128,6 +128,23 @@ comments:
     input_position: "bottom" # optional, default to 'bottom'
     lang: "en" # optional, default to the value of `site.lang`
     reactions_enabled: "1" # optional, default to the value of `1`
+
+# Giscus HTTPS settings
+# <script src="https://giscus.app/client.js"
+#         data-repo="samuelhrqe/samuelhrqe.github.io"
+#         data-repo-id="R_kgDONq6Mlw"
+#         data-category-id="DIC_kwDONq6Ml84CmKdn"
+#         data-mapping="title"
+#         data-strict="0"
+#         data-reactions-enabled="1"
+#         data-emit-metadata="0"
+#         data-input-position="bottom"
+#         data-theme="preferred_color_scheme"
+#         data-lang="en"
+#         data-loading="lazy"
+#         crossorigin="anonymous"
+#         async>
+# </script>
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
