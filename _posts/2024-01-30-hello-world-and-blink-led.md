@@ -4,10 +4,11 @@ description: Learn how to run Zephyr on ESP32, print a message and blink an LED.
 author: samuelh
 date: 2025-01-30 11:24:00 -0300
 categories: [Zephyr, ESP32, LED]
-tags: [esp32, rtos]
+tags: [esp32, zephyr, rtos]
 math: true
+media_subpath: "/assets/img/posts/2024-01-30-hello-world-and-blink-led/"
 image:
-  path: /assets/img/posts/2024-01-24-zephyr-hello/cover.png
+  path: cover.png
   lqip: data:image/png;base64,
 # permalink: /post/hello-zephyr/
 # toc: true
@@ -92,8 +93,8 @@ For this tutorial, you need the following components:
 
 Connect the components as shown in the circuit diagram:
 
-![Circuit Diagram](/assets/img/posts/2024-01-24-zephyr-hello/led_esp32.png){: .light }
-![Circuit Diagram](/assets/img/posts/2024-01-24-zephyr-hello/led_esp32_dark.png){: .dark }
+![Circuit Diagram](led_esp32.png){: .light }
+![Circuit Diagram](led_esp32_dark.png){: .dark }
 
 The LED is connected to **GPIO pin 25** of the ESP32.
 
@@ -314,8 +315,8 @@ This command shows the output logs, including any messages printed with `printk`
 
 {%
   include embed/video.html
-  src='/assets/img/posts/2024-01-24-zephyr-hello/led.mp4'
-  types='mp4|mov'
+  src='led.mp4'
+  types='mp4'
   title='Result video'
   autoplay=false
   loop=true
