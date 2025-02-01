@@ -6,7 +6,7 @@ date: 2025-01-30 11:24:00 -0300
 categories: [Zephyr, ESP32, LED]
 tags: [esp32, zephyr, rtos]
 math: true
-media_subpath: "/assets/img/posts/2024-01-30-hello-world-and-blink-led/"
+media_subpath: "/assets/img/posts/2025-01-30-hello-world-and-blink-led/"
 image:
   path: cover.png
   lqip: data:image/png;base64,
