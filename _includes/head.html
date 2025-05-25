@@ -124,8 +124,11 @@
 
   {% include metadata-hook.html %}
 
-  {% if site.google_analytics and jekyll.environment == 'production' %}
+  <!-- This block is redundant; handled dynamically above -->
+  <!--
+  {% if site.analytics.google.id and jekyll.environment == 'production' %}
     {% include analytics/google.html %}
   {% endif %}
+  -->
 
 </head>
