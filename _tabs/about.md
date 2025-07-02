@@ -30,8 +30,8 @@ All opinions and ideas shared here are personal and based on my own experiences.
 
 > "*And what about your professional experience?*"
 
-For the most up-to-date details about my qualifications, career achievements, past roles, and current projects, LinkedIn is the best place to check! Feel free to explore my [profile](https://www.linkedin.com/in/samuelhenrique15/) (or just click the LinkedIn icon available on every page of this blog).
+For the most up-to-date details about my qualifications, career achievements, past roles, and current projects, LinkedIn is the best place to check! Feel free to explore my [profile](https://www.linkedin.com/in/samuelhenrique15/){:target="_blank"} (or just click the LinkedIn icon available on every page of this blog).
 
 ## Resume
 
-You can easily check my resume—I’ve provided the following PDF [here](/assets/pdf/cv-ptBR.pdf).
+You can easily check my resume—I’ve provided the following PDF [here](/assets/pdf/cv-ptBR.pdf){:target="_blank"}.
