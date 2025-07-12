@@ -377,6 +377,18 @@ This example demonstrates the basics of working with GPIO devices in Zephyr, inc
 
 The entire code for this tutorial is available [here](https://github.com/samuelhrqe/zephyr-on-esp32/tree/main/button_polling). You can use this as a starting point for more complex projects involving buttons and other GPIO devices.
 
+The video below provides a visual demonstration of the project:
+
+{%
+  include embed/video.html
+  src='push_button.mp4'
+  types='mp4'
+  title='Demonstration of Push Button with Polling in Zephyr on ESP32'
+  autoplay=false
+  loop=true
+  muted=true
+%}
+
 ## References {#references}
 
 - [Introduction to Zephyr Part 4: Devicetree Tutorial \| DigiKey][esp32_on_zephyr_yt]{:target="_blank"}
